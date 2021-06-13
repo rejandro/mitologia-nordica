@@ -1,0 +1,41 @@
+body {
+ background-color: rgb(201, 148, 99);
+}
+h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  .primeira {
+    position:relative;
+    left: 20%;
+    top: 50px;
+  }
+  a:link {
+    text-decoration: none;
+    color:rgba(65, 39, 39, 0.733) ;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+  .mapa {
+    position: relative;
+    width: 600px;
+   height= 450;
+    left: 30%;
+    top: 15px;
+  }
+  
+.body2 {
+  background-color: rgba(207, 99, 80, 0.842);
+}

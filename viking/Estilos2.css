@@ -1,0 +1,66 @@
+body {
+    background-color: #FFA71B;
+    text-align: justify
+    double 
+}
+.pri {
+    position:relative;
+    left: 35%;
+    top: 35px;
+    width: 550px;
+    height: 600px;
+}
+.seg {
+    position: relative;
+    left: 35%;
+    top: 20px;
+    width: 500px;
+    height: 600px;
+}
+.ter {
+    position: relative;
+    left: 35%;
+    top: 20px;
+    width: 500px;
+    height: 600px;
+}
+.qua {
+    position: relative;
+    left: 30%;
+    top: 20px;
+    width: 600px;
+    height: 600px;
+}
+.qui{
+    position: relative;
+    left: 30%;
+    top: 20px;
+    width: 600px;
+    height: 500px;
+}
+.sex{
+    position: relative;
+    left: 30%;
+    top: 20px;
+    width: 600px;
+    height: 500px;
+}
+.titulo{
+    size: 50px;
+    text-align: center;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000;
+    font-size: 3em; 
+    color:fffdd9 ;
+    text-decoration: underline;
+}
+.titulo2{
+    size: 40px;
+    text-align:center ;
+}
+h2{
+    text-align: center;
+    text-align: justify;
+    border: 50px solid#FFA71B;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
